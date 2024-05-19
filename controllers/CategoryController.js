@@ -12,7 +12,6 @@ export const createCategory = async (req, res) => {
 	}
 };
 
-
 // Get all categories
 export const getAllCategories = async (req, res) => {
 	try {
