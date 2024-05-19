@@ -30,7 +30,7 @@ MONGO_URI=<Your MongoDB URI>
 - What was the most difficult part of the assignment?
     - The difficulty I faced was my end semester exams were going on till 16th May and then I was travelling back to 
       my home city on 17th and !8th May. So I have to manage my time to complete the assignment in the remaining time.
-
+    - Another issue was with regular expressions for searching the items. 
 - What you would have done differently given more time?
     - If I had more time I would have added more features to the project like user authentication using jwt tokens, 
       user roles, and permissions, etc. I would have also added more validation to the API endpoints and proper 
